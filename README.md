@@ -18,3 +18,7 @@ A Snake Game using HTML , CSS and JavaScript.
 ## :video_game: Play the Game  :
 
 https://puneet-sys.github.io/SnakeGame/
+
+## Editor Used :
+
+Microsoft Visual Studio
