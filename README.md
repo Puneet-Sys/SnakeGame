@@ -1,6 +1,8 @@
-# SnakeGame :snake:
+## SnakeGame :snake:
 
 A snake Game using HTML , CSS and JavaScript.
+
+## Tech Stack
 
 <p align="left">  
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
