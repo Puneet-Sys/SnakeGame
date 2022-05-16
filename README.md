@@ -1,8 +1,8 @@
-## SnakeGame :snake:
+## :snake: SnakeGame : 
 
 A snake Game using HTML , CSS and JavaScript.
 
-## Tech Stack
+## Tech Stack :
 
 <p align="left">  
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
@@ -12,9 +12,9 @@ A snake Game using HTML , CSS and JavaScript.
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-## Interface: 
+## Interface : 
 ![image](https://user-images.githubusercontent.com/86190033/168209651-56b8f5f4-60ba-4a7e-b73e-578316ce8947.png)
 
-### Play the Game❗
+## Play the Game :video_game: :
 
 https://puneet-sys.github.io/SnakeGame/
