@@ -15,6 +15,6 @@ A Snake Game using HTML , CSS and JavaScript.
 ## Interface : 
 ![image](https://user-images.githubusercontent.com/86190033/168209651-56b8f5f4-60ba-4a7e-b73e-578316ce8947.png)
 
-## Play the Game :video_game: :
+## :video_game: Play the Game  :
 
 https://puneet-sys.github.io/SnakeGame/
