@@ -1,6 +1,6 @@
 ## :snake: SnakeGame : 
 
-A snake Game using HTML , CSS and JavaScript.
+A Snake Game using HTML , CSS and JavaScript.
 
 ## Tech Stack :
 
