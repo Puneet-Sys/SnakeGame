@@ -21,4 +21,4 @@ https://puneet-sys.github.io/SnakeGame/
 
 ## Editor Used :
 
-Microsoft Visual Studio
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> Microsoft Visual Studio Code </a> 
